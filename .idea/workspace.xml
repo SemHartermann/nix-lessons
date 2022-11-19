@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdfd6e26-19f3-4e88-9d25-b7a39e23db40" name="Changes" comment="2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lessons/nix/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/lessons/nix/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lessons/nix/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="ДЗ_Основні_конструкції_мови" />
+        <entry key="$PROJECT_DIR$" value="ДЗ_Класи.Функції" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,7 +56,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.All in nix_lessons">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lessons.nix.Main" />
       <module name="nix_lessons" />
@@ -80,8 +83,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in nix_lessons" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nix_lessons" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in nix_lessons" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.YourLuckyNumber" />
       </list>
@@ -96,7 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668762915248</updated>
       <workItem from="1668762917164" duration="2200000" />
-      <workItem from="1668833406244" duration="4000000" />
+      <workItem from="1668833406244" duration="7259000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1668762938177</created>
@@ -119,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668843316218</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2">
+      <created>1668844648374</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668844648374</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
